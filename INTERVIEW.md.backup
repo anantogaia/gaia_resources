@@ -207,7 +207,7 @@ Indikator 4.1 | Kemampuan melakukan interaksi/relasi sosial sampai pada interaks
 
 Nama | Setting
 :----|:----
-Kode | SET
+Kode | SETT
 Alias |
 Definisi | Kemampuan dalam menetapkan target dan perencanaan yang jelas dan kongkrit dalammenyikapi suatu penugasan.
 
@@ -215,7 +215,7 @@ Definisi | Kemampuan dalam menetapkan target dan perencanaan yang jelas dan kong
 
 Nama | Fulfilling
 :----|:----
-Kode | FUL
+Kode | FULL
 Alias |
 Definisi | Kemampuan untuk mengimplementasikan target/rencana kerja melalui sejumlah inisiatif pengelolaan sumber daya, pengawasan & kontrol, serta pengelolaan masalah dan risiko.
 
@@ -223,7 +223,7 @@ Definisi | Kemampuan untuk mengimplementasikan target/rencana kerja melalui seju
 
 Nama | Coping
 :----|:----
-Kode | COP
+Kode | COPE
 Alias |
 Definisi | Kemampuan untuk menyikapi, dan bertindak selaras dengan tuntutan perubahan dan aturan.
 
@@ -231,7 +231,7 @@ Definisi | Kemampuan untuk menyikapi, dan bertindak selaras dengan tuntutan peru
 
 Nama | Developing
 :----|:----
-Kode | DEV
+Kode | DEVE
 Alias |
 Definisi | Kemampuan pengembangan diri dan Orang lain dalam menyikapi tuntutan melalui sejumlah inisiatif mandiri.
 
@@ -239,7 +239,7 @@ Definisi | Kemampuan pengembangan diri dan Orang lain dalam menyikapi tuntutan m
 
 Nama | Serving
 :----|:----
-Kode | SEV
+Kode | SERV
 Alias |
 Definisi | Kemampuan dalam menganalisa kebutuhan pelanggan terkait hubungannya dengan perusahaan/organisasi dan menindaklanjutinya untuk memenuhi kebutuhan tersebut.
 
@@ -247,6 +247,6 @@ Definisi | Kemampuan dalam menganalisa kebutuhan pelanggan terkait hubungannya d
 
 Nama | Socializing
 :----|:----
-Kode | SOC
+Kode | SOCI
 Alias |
 Definisi | Kemampuan untuk melakukan pemetaan terhadap situasi personal dan sosial serta melakukan relasi untuk mendapatkan respon positif dari pihak terkait
